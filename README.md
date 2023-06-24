@@ -23,5 +23,22 @@
 <h3>What about the process of working through a design document did you find helpful when developing the code?</h3>
 <p>The design document gave students a framework to operate within. I used the design document like a linguistic skeleton to support the development of solutions to the client's requests. The design document dramatically sped up the process of giving the client the information needed to make an informed operating platform choice decision.</p>
 
-<h3></h3>
+<h3>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</h3>
+<p>The only part of the document that I would consider revising is the requirements section. I would break the requirement's section down by category and use that to compile a structured document system so that different parts of the operating platforms assignment could be worked simultaneously by different project leads / project managers. The </p>
 
+<h3>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</h3>
+<p>It is important to understand the underlying platforms and technologies that will be used in a project up front, instead of coding on the fly. The design document allowed me to consider server technologies, network topologies, network security, needs, user content needs, overall game content structure, and ways to extend the game to include new features once the game moved into the development and testing phases.</p>
+
+<h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
+<p>I used an iterative approach that modified the document multiple times a week. The work was spread out over the course to avoid a rushed conclusion. Content added to the document considers:</p>
+<ul>
+  <li>Components needed</li>
+  <li>Platform-specific / Cross-platform architecture</li>
+  <li>Data exchange between diverse platforms</li>
+  <li>Security and access control</li>
+  <li>Scalability</li>
+  <li>Languages used</li>
+  <li>Cross-Platform implementation strategies</li>
+
+The above list is not exhaustive, as there are pros and cons to options that the client ultimately chooses. Aside from the above list, storage management, memory management, distributed systems and networks, and more were considered in the recommendation for a final oparating platform strategy to build the game. The client is well-positioned from an information perspective to move forward with a variety of options.
+</ul>
